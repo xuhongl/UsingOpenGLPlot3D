@@ -1,5 +1,21 @@
-mongodb://best-for-you-db-xuhongl:zNpnUjzApnNmlbN7y0mgfnGdMqoblCcvrABrsBL2GvCrvDlbH5VgN4k8njBOUASCsQZt1EHO4MZ8IJsuZwdfWg==@best-for-you-db-xuhongl.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+best-for-you-db-xuhongl.documents.azure.com
 
+best-for-you-db-xuhongl
+
+zNpnUjzApnNmlbN7y0mgfnGdMqoblCcvrABrsBL2GvCrvDlbH5VgN4k8njBOUASCsQZt1EHO4MZ8IJsuZwdfWg==
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
 The whole project is compiled successfully in visual studio express 2013, windows 8.1
 
 This project use two different kinds of additional libraries: OpenGL and GLFW;
