@@ -1,9 +1,4 @@
-mongoimport --host best-for-you-db-xuhongl.documents.azure.com:10255 -u best-for-you-db-xuhongl -p zNpnUjzApnNmlbN7y0mgfnGdMqoblCcvrABrsBL2GvCrvDlbH5VgN4k8njBOUASCsQZt1EHO4MZ8IJsuZwdfWg== --db best-for-you-organics --collection plans --ssl --sslAllowInvalidCertificates --type json --file plans.json
-
-
-
-
-
+docker login bestforyouregistryxuhongl.azurecr.io -u bestforyouregistryxuhongl
 
 
 
