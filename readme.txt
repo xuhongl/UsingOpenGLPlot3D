@@ -1,5 +1,7 @@
 docker login bestforyouregistryxuhongl.azurecr.io -u bestforyouregistryxuhongl
 
+dBVIejp4/uLvusMcg2X0N1pGUWeFnoqn
+
 
 
 
